@@ -27,7 +27,7 @@ Each environment provides a different input:
 
 * _`market_changes`.py_ - Adjusted close price percentage from Close
 
-* Close + Volume
+* _`market_close_volume`.py_ - Close + Volume within state
 
 
 ## The state includes:
